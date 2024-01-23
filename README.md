@@ -17,5 +17,5 @@ About Me
 </a>
 
 <a href="https://github.com/ebkapalka">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ebkapalka&show_icons=true&line_height=27&count_private=true&theme=transparent&custom_title=GitHub Stats" alt="Eric's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ebkapalka&show_icons=true&line_height=27&count_private=true&theme=transparent&custom_title='GitHub Stats'" alt="Eric's GitHub Stats" />
 </a>
