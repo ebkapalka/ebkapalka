@@ -1,4 +1,4 @@
-[![GitHub Banner](./assets/GitHubHeader.png)](#)
+[![GitHub Banner](./assets/paper-drip-20260929-1280x640.png)](#)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/eric-kapalka/)
 [![LinkedIn Badge](https://img.shields.io/badge/ArtStation-informational?style=flat&logo=artstation&logoColor=white&color=0D76A8)](https://erickapalka.artstation.com/)
 
